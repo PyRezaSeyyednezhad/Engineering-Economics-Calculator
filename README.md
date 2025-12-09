@@ -3,7 +3,7 @@
 A comprehensive desktop application built with Python and Tkinter for performing engineering economics and financial analysis calculations. This tool implements standard time-value-of-money formulas and economic decision-making methodologies used in engineering project evaluation.
 ---
 <p align="center">
-  <img src="Cover/Go-Turtle-Cover.png" width="700">
+  <img src="Cover/Engineering Economic.jpg" width="700">
 </p>
 ---
 ## ✨ Features
